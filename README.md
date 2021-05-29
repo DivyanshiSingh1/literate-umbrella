@@ -1,2 +1,2 @@
 # literate-umbrella
-Developed "Dice Roller" app after learning from kotlin tutorial.
+Developed "Dice Roller" app after learning from Kotlin tutorial.
